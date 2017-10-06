@@ -1,0 +1,13 @@
+MainProgression
+
+0: start
+1: Alex joins party
+2: Guardhouse battle
+3: Bridge battle
+4: Arrival is finished
+
+5: Catherine Intro
+6: Count Iston Intro
+7: Sleep at inn
+8: Catherine joins party.
+
