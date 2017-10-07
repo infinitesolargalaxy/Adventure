@@ -10,4 +10,5 @@ MainProgression
 6: Count Iston Intro
 7: Sleep at inn
 8: Catherine joins party.
+9: Beated Mighty Kyle
 
