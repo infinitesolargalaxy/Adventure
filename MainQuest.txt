@@ -21,6 +21,8 @@ Iston
 5 Skeletons II, 7 goblin scouts -> 5*70 + 7*80 = 350 + 560 = 910 xp -> Lv 7
 Iston Forest
 10: Talked to Jack -> get info
-
+11: Fought Canson
+12: Talked to Count Iston -> Go recruit Orsus
+13: Orsus joins.
 
 
