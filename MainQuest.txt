@@ -18,11 +18,28 @@ Iston
 
 -> 1000 exp -> Lv 6
 
-5 Skeletons II, 7 goblin scouts -> 5*70 + 7*80 = 350 + 560 = 910 xp -> Lv 7
 Iston Forest
+5 Skeletons II, 7 goblin scouts -> 5*70 + 7*80 = 350 + 560 = 910 xp -> Lv 7
 10: Talked to Jack -> get info
 11: Fought Canson
++ 1500 xp -> Min exp: 300 + 1000 + 910 + 1500 = 3710 -> Lv 8
+- 2 iron grade equipment
 12: Talked to Count Iston -> Go recruit Orsus
 13: Orsus joins.
+- Orsus has 3 iron grade equipment
+
+Sidequest 001: Find Elizabeth
+Min exp: 3240
+- 2 iron grade equipment
+- accessory
+
+Sidequest 002: West Fields
+Min exp: 650 + 350 + 380 + 1020 + 1000 = 3400
+- 2 iron grade equipment
+- unique iron grade heavy chest
+- accessory
+
+
+If you did main and sides, Min exp: 10350 -> Lv 12
 
 
