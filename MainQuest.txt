@@ -42,4 +42,9 @@ Min exp: 650 + 350 + 380 + 1020 + 1000 = 3400
 
 If you did main and sides, Min exp: 10350 -> Lv 12
 
+Iston Deep Forest
+Assume player did at least one side -> 3710 + 3240 = 6950 XP -> Lv 10 (close to 11)
+
+14: Arrive at Fort Reon
+
 
