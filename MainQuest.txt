@@ -44,6 +44,8 @@ If you did main and sides, Min exp: 10350 -> Lv 12
 
 Iston Deep Forest
 Assume player did at least one side -> 3710 + 3240 = 6950 XP -> Lv 10 (close to 11)
+Catherine: 17559 + 3710 - 300 + 3240 = 24209 -> Lv 16
+Orsus: 17599 + 3240 (only sides) = 20839 -> Lv 15
 
 11 skeleton soldiers II: 770
 11 spirit puppets: 880
@@ -51,18 +53,44 @@ Assume player did at least one side -> 3710 + 3240 = 6950 XP -> Lv 10 (close to 
 1 skeleton swordsman: 180
 = 2790 xp
 Total is now: 9740 xp -> Lv 12
+26999
+
 
 Fort Reon Exterior
 8 skeleton warriors: 120*8 = 960
-2 spirit puppets = 160
+2 spirit puppets = 80*2
 7 skeleton soldiers II: 490
 1 skeleton swordsman: 180
 1 skeleton mage: 180
 = 1970xp
-Total: 11710 -> Lv 13
+Total: 11710/28969 -> Lv 13
 
 14: Arrive at Fort Reon
 - Player can go back to ask Count Iston again. He'll say that he wasn't able to free up men. But he'll be willing to give you guys
 money to help prepare for your battle. He also says that you guys should not go. Just defend the twon or head somewhere safe.
+
+Fort Reon 1F
+5 skeleton warriors: 120*5 = 600
+2 spirit puppets II = 120*2
+7 skeleton soldiers II: 490
+1 skeleton swordsman: 180
+1 skeleton mage: 180
+=1690
+Total: 13400 -> Lv 13
+30659 
+
+Fort Reon 1B
+22 skeleton warriors: 120*22 = 2640
+7 spirit puppets : 120*7 = 840
+2 skeleton mage: 360
+1 Death Knight: 1000
+2 skeleton swordsman: 360
+2 skeleton priest: 360
+8 skeleton soldier II: 70*8 = 560
+=6120
+Total: 19520 -> Lv 15
+36779 -> 19
+
+
 
 
