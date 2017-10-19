@@ -91,6 +91,29 @@ Fort Reon 1B
 Total: 19520 -> Lv 15
 36779 -> 19
 
+Fort Reon Secret Basement
+9 Bounded Lesser Wind Spirit: 150*9 = 1350
+1 Bounded Wind Spirit: 500
+=1850
+Total: 21370
+
+Fort Reon 1B again
+14 Skeleton Warrior: 120*6 = 720
+2 Death Knight: 1000*2 = 2000
+1 Acolyte: 300
+6 Skeleton Soldier II: 70*6 =  420
+=3440
+Total: 24810 -> Lv 16
+
+Fort Reon 2nd floor
+Canson: 1500
+4 Skeleton Guards: 120*4
+1 Skeleton Priest: 180
+=2160
+Total: 26970 -> Lv 17
+
+
+
 
 
 
