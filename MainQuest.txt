@@ -115,7 +115,7 @@ Total: 26970 -> Lv 17
 15: Finished reporting to COunt Iston
 16: Wake up at the inn
 
-
+17: Veronica Joins
 
 
 
