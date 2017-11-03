@@ -116,7 +116,9 @@ Total: 26970 -> Lv 17
 16: Wake up at the inn
 
 17: Veronica Joins
-
+18: Arrive at Eastern Gates (mainly for map control)
+19: Finished helping Wynsia Village
+20: Arrive at Tellren City
 
 
 
