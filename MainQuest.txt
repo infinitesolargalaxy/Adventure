@@ -119,6 +119,6 @@ Total: 26970 -> Lv 17
 18: Arrive at Eastern Gates (mainly for map control)
 19: Finished helping Wynsia Village
 20: Arrive at Tellren City
-
+21: Finished sending letter to Marquis Tellren
 
 
