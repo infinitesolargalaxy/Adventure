@@ -113,6 +113,7 @@ Canson: 1500
 Total: 26970 -> Lv 17
 
 15: Finished reporting to COunt Iston
+Missable Cutscene in Church Lodgings
 16: Wake up at the inn
 
 17: Veronica Joins
@@ -120,5 +121,6 @@ Total: 26970 -> Lv 17
 19: Finished helping Wynsia Village
 20: Arrive at Tellren City
 21: Finished sending letter to Marquis Tellren
+22: Wake up at Castle Tellren
 
 
