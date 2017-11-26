@@ -121,6 +121,8 @@ Missable Cutscene in Church Lodgings
 19: Finished helping Wynsia Village
 20: Arrive at Tellren City
 21: Finished sending letter to Marquis Tellren
-22: Wake up at Castle Tellren
+22: Go to Tranquil Hills (map)
+23: Wake up at Castle Tellren
+24: Arrive at mine exterior
 
 
