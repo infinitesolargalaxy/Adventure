@@ -70,7 +70,7 @@ Total: 11710/28969 -> Lv 13
 money to help prepare for your battle. He also says that you guys should not go. Just defend the twon or head somewhere safe.
 
 Fort Reon 1F
-5 skeleton warriors: 120*5 = 600
+6 skeleton warriors: 120*6 = 720
 2 spirit puppets II = 120*2
 7 skeleton soldiers II: 490
 1 skeleton swordsman: 180
@@ -98,11 +98,11 @@ Fort Reon Secret Basement
 Total: 21370
 
 Fort Reon 1B again
-14 Skeleton Warrior: 120*6 = 720
+14 Skeleton Warrior: 120*14 = 1680
 2 Death Knight: 1000*2 = 2000
 1 Acolyte: 300
 6 Skeleton Soldier II: 70*6 =  420
-=3440
+=4400
 Total: 24810 -> Lv 16
 
 Fort Reon 2nd floor
